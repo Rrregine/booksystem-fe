@@ -1,4 +1,5 @@
 # Getting Started with Create React App
+# Please clone my other repository called "booksystem-be"! Run both frontend and backend to have access of the whole project! 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
